@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/nanopb/nanopb"
   s.license      = { :type => 'zlib', :file => 'LICENSE.txt' }
   s.author       = { "Petteri Aimonen" => "jpa@nanopb.mail.kapsi.fi" }
-  s.source       = { :git => "https://github.com/nanopb/nanopb.git", :tag => "0.3.9.7" }
+  s.source       = { :git => "https://gitclone.com/github.com/nanopb/nanopb", :tag => "0.3.9.7" }
 
   s.ios.deployment_target = '9.0'
   s.osx.deployment_target = '10.9'
